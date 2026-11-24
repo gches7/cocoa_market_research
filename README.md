@@ -144,7 +144,7 @@ Faz parte do trabalho deixar claro até onde a análise vai:
 **Gabriel Ché**: análise estatística, código em R e redação técnica
 [LinkedIn](https://www.linkedin.com/in/gabriel-che) · [Portfólio](https://sites.google.com/view/gabrielch/portfolio)
 
-**João Fenuchi**: coautor do relatório
+**João Fenuchi**: design e diagramação do relatório
 
 Estudo publicado pela **KTR Business Intelligence** em dezembro de 2024.
 
